@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mantonimuretior00publgoog_0362.png"; bbox 0 0 575 1131; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 79 51 482 428">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 79 51 482 428">
+     <span class='ocr_line' id='line_1_1' title="bbox 79 51 482 428; baseline 0 703"><span class='ocrx_word' id='word_1_1' title='bbox 79 51 482 428; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 86 419 445 510">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 88 418 445 510">
+     <span class='ocr_line' id='line_1_2' title="bbox 88 419 445 452; baseline -0.006 -5.966"><span class='ocrx_word' id='word_1_2' title='bbox 94 420 96 426; x_wconf 37' lang='lat' dir='ltr'>V</span> <span class='ocrx_word' id='word_1_3' title='bbox 88 430 187 451; x_wconf 54' lang='lat' dir='ltr'>tannen-iam</span> <span class='ocrx_word' id='word_1_4' title='bbox 188 429 259 446; x_wconf 62' lang='lat' dir='ltr'>doen-me</span> <span class='ocrx_word' id='word_1_5' title='bbox 261 419 397 452; x_wconf 46' lang='lat' dir='ltr'>‹aspa-fidam,</span> <span class='ocrx_word' id='word_1_6' title='bbox 404 435 419 445; x_wconf 74' lang='grc' dir='ltr'>ιε</span> <span class='ocrx_word' id='word_1_7' title='bbox 423 436 445 451; x_wconf 77' lang='lat' dir='ltr'>qu</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 86 435 445 475; baseline -0.006 -6.972"><span class='ocrx_word' id='word_1_8' title='bbox 86 435 115 470; x_wconf 58' lang='grc' dir='ltr'>,οὓ</span> <span class='ocrx_word' id='word_1_9' title='bbox 116 450 258 475; x_wconf 52' lang='lat' dir='ltr'>Qum-‘³¹¹³&#39;</span> <span class='ocrx_word' id='word_1_10' title='bbox 318 451 377 470; x_wconf 64' lang='lat' dir='ltr'>imin:</span> <span class='ocrx_word' id='word_1_11' title='bbox 381 452 445 474; x_wconf 58' lang='grc' dir='ltr'>,ΜΔ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 86 467 444 510; baseline 0.011 -6.045"><span class='ocrx_word' id='word_1_12' title='bbox 86 467 444 510; x_wconf 40' lang='lat' dir='ltr'>mmmmm&amp;</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
